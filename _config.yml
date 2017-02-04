@@ -59,15 +59,16 @@ author:
   languages:
     - language1:
       name: Python
-      proficiency: 
+      proficiency: Native
     - language2:
       name: R
-      proficiency: 
+      proficiency: Native
     - language3:
       name: PL-SQL
-      proficiency: 
+      proficiency: Native
     - language4:
       name: MicroStrategy
+      proficiency: Native
   programmingSkills:
     - skill1:
       name: Tableau
