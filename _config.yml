@@ -30,55 +30,66 @@ author:
       company: San Diego State University
       location: San Diego , CA
       title: Graduate Research Assistant
-      started: 2014
-      duration: (2014 - Present)
-      description: Reinforcing concepts and guiding students with statistical tools and models.Assisting faculty with research and analysis of statistical modelling,summarizing of reports.Audit and review syllabi for MSIS department using MS Excel and Tableau.Creating and analyzing lecture videos with faculties for Online course development project
+      started: 2016
+      duration: (2016 - Present)
+      description: Reinforcing concepts and guiding students with statistical tools and models.
+      Assisting faculty with research and analysis of statistical modelling,summarizing of reports.
+      Audit and review syllabi for MSIS department using MS Excel and Tableau.
+      Creating and analyzing lecture videos with faculties for Online course development project
     - work2:
-      company: Agfa HealthCare
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Barclays Inc.
+      location: New Delhi,India 
+      title: Advisor
+      started: 2015
+      duration: (2015 - 2016)
+      description: Analyzed clients existing systems and designed database schema.
+      Developed a functionality that would extract adjustments and charges for Barclaycard Customers from database using SQL queries.
+      Performed audit , review of procedures and documented the procedures.
+      Involved in planning preparation, execution and defect reporting, allocating the issues to the team from Defect tracking/priority tool and generating reports
     - work3:
-      company: Citigroup Services and Technology (China) Limited
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: SparkEighteen Pvt Ltd
+      location: New Delhi,India 
+      title: Technical Analyst
+      started: 2014
+      duration: (2014 - 2015)
+      description: Initiated project for web development product and data analysis of social media.
+      Tested the product release as needed to support the target release schedule.
+      Analyzed and documented clients issues.
   educationHistory:
     - education1:
-      organization: Northeastern University
-      location: Shenyang, China
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      organization: San Diego State University
+      location: San Diego, CA
+      degree: Master's
+      major: Management Of Information Systems 
+      started: 2016
+      duration: (2016 - 2018)
+      description: Courses: Enterprise Data Management,Statistical Analysis,Business Data Communication,Marketing,Business Analytics,Financial and Accounting Management,Operations & Supply Chain Management,Seminar in Supply Chain & ERP.
+      Specializations: Tableau, R studio, Statistical Modelling,Data Analysis, Business Analytics, Database Management, Big Data Analysis using Apache Spark
   languages:
     - language1:
-      name: Chinese
-      proficiency: Native
+      name: Python
+      proficiency: 
     - language2:
-      name: English
-      proficiency: Professional
+      name: R
+      proficiency: 
     - language3:
-      name: Japanese
-      proficiency: Limit
+      name: PL-SQL
+      proficiency: 
+    - language4:
+      name: MicroStrategy
   programmingSkills:
     - skill1:
-      name: HTML
+      name: Tableau
       percentage: 100%
     - skill2:
-      name: Bootstrap
+      name: R-Studio
       percentage: 90%
     - skill3:
-      name: JavaScript
+      name: Microsoft Visio
       percentage: 70%
     - skill4:
-      name: AngularJS
+      name: Apache Spark
       percentage: 70%
     - skill5:
-      name: Java/Java EE
+      name: MS Excel
       percentage: 90%
