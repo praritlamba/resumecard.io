@@ -1,11 +1,11 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Prarit Lamba's CV 
+description: Prarit Lamba's CV
 favicon: /assets/img/avatar.JPG
 baseurl: https://ddbullfrog.github.io/resumecard
 url: https://ddbullfrog.github.io/resumecard
-rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
+rss_url: /
+google_analytics: 
 
 # Build settings
 markdown: kramdown
@@ -14,26 +14,28 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
+  name: Prarit Lamba
+  title: Master of Science in Information Systems
+  address: California,United States
+  email: p r a r i t [dot] l a m b a [at] gmail.com
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: praritlamba
+  linkedin: praritlamba
+  twitter: 
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: Finzsoft Solutions Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
+      company: San Diego State University
+      location: San Diego , CA
+      title: Graduate Research Assistant
       started: 2014
       duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: -Reinforcing concepts and guiding students with statistical tools and models
+-Assisting faculty with research and analysis of statistical modelling,summarizing of reports
+-Audit and review syllabi for MSIS department using MS Excel and Tableau
+-Creating and analyzing lecture videos with faculties for Online course development project
     - work2:
       company: Agfa HealthCare
       location: Shanghai, China
